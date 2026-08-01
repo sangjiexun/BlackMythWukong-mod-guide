@@ -6,8 +6,8 @@
 
 最后更新：**2026-07-31**
 
-![游戏实机画面（前台主屏截图）](<img width="1080" height="675" alt="image" src="https://github.com/user-attachments/assets/05cfce13-c463-48e4-b7a0-cd2fd17b4a7e" />
-)
+<img width="1080" height="675" alt="image" src="https://github.com/user-attachments/assets/00529bca-ac4c-41cd-8b1a-4e8b79ffc7e1" />
+
 
 *(截图：前台 b1 窗口 / 主屏 PrintWindow 抓取，1966×823 → 1280×536 压缩至 41 KB)*
 
